@@ -1,0 +1,10 @@
+streamlit
+groq
+python-dotenv
+requests
+pillow
+gtts
+transformers
+torch
+accelerate
+sentencepiece

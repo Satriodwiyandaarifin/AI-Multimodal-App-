@@ -1,0 +1,12 @@
+# Environment
+.env
+
+# Dataset besar
+dataset/stories.csv
+
+# Audio output
+output.mp3
+
+# Python cache
+__pycache__/
+*.pyc
